@@ -1,6 +1,6 @@
 {
   "name": "plausible-skill",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Query Plausible Analytics API - get website traffic, visitor stats, and analytics data",
   "skills": ["./skills/plausible"]
 }
